@@ -20,6 +20,7 @@ void sort(int* arr, int size)
 
 int main()
 {
+    // notebook 添加的注释
     cout << "hello world!!!" << endl;
     int arr[] = {12,352,321,5233,5123,1,3421};
     int size = sizeof(arr)/sizeof(arr[0]);
